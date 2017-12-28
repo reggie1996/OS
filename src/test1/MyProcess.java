@@ -4,6 +4,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+//进程类
 public class MyProcess {
 	
 	public List<MyThread> mythreads;//存放各个线程的数组
