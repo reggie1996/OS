@@ -3,7 +3,7 @@ package test1;
 public class Main {
 	public static void main(String[] args) {
 		
-		MyThread thread1 = new MyThread("1", 10, 9);
+		MyThread thread1 = new MyThread("1", 9, 9);
 		MyThread thread2 = new MyThread("2", 2, 8);
 		MyThread thread3 = new MyThread("3", 3, 7);
 		MyThread thread4 = new MyThread("4", 4, 6);
